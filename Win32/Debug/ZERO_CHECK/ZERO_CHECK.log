@@ -1,0 +1,10 @@
+﻿  Checking Build System
+  CMake is re-running because C:/Users/ASUS/Desktop/Final-Project/build/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/ASUS/Desktop/Final-Project/CMakeLists.txt'
+    is newer than 'C:/Users/ASUS/Desktop/Final-Project/build/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Selecting Windows SDK version 10.0.17763.0 to target Windows 10.0.19043.
+  -- VTK_VERSION: 8.2.0
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/ASUS/Desktop/Final-Project/build
